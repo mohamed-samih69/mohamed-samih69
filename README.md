@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @mohamed-samih69
-- 👀 I’m interested in ... Software engineering
-- 🌱 I’m currently learning ... computer science
-- 💞️ I’m looking to collaborate on ... building a project with someone of better skills
-- 📫 How to reach me ... mohamed35samih@hotmail.com
-- ⚡ Fun fact: ... I am a rapper 
+# Tiny Compiler Project Docs
 
-<!---
-mohamed-samih69/mohamed-samih69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains documentation scaffolding for a tiny compiler project aligned with the assignment brief.
+
+- Read the full documentation in `docs/`:
+  - [Overview](docs/README.md)
+  - [Language Spec](docs/language-spec.md)
+  - [API Reference](docs/api-reference.md)
+  - [Components](docs/components.md)
+  - [Usage Guide](docs/usage.md)
+  - [Examples](docs/examples/README.md)
+
+If you implement the compiler in Java, C, or Python, you can adopt the public APIs and module boundaries described in the docs.
